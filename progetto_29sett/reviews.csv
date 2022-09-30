@@ -1,0 +1,14 @@
+username,gender,age,experience,model,real_use,review
+mrossi,m,25,beginner,Kataki,indoor,"Le scarpe mi piacciono molto, forse avrei dovuto prendere un numero maggiore"
+lverdi,m,26,intermediate,Kataki,outdoor,"Nonostante siano consigliate per un uso ""outdoor"", mi sento di consigliarle anche per boulder in palestra. \n Il grip risulta buono anche sulle prese in plastica e la suola non si consuma rapidamente"
+plilla,m,45,advanced,Tarantula,indoor,"Tortor at risus viverra adipiscing at in tellus integer. Risus quis varius quam quisque id. Mauris ultrices eros in \n cursus turpis massa tincidunt dui."
+vgiallo,f,47,beginner,Tarantula,indoor,"Odio eu feugiat pretium nibh. Cursus in hac habitasse platea. Morbi tristique senectus et netus et msuada fames ac turpis."
+gviola,f,33,advanced,Theory,indoor,"Volutpat ac tincidunt vitae semper quis lectus. Vel turpis nunc eget lorem."
+atito,null,54,intermediate,Finale,indoor,"Ultrices neque ornare aenean euismod elementum nisi quis. Amet aliquam id diam maecenas ultricies mi."
+plilla,m,45,advanced,Speedster,outdoor,"Tellus molestie nunc non blandit massa. Id diam maecenas ultricies mi eget mauris."
+dcioni,m,35,beginner,Tarantulace,indoor,"Fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque. Id velit ut tortor pretium viverra."
+gviola,f,33,intermediate,Testarossa,indoor,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+bneve,m,13,beginner,Tarantula,indoor_outdoor,"Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Amet massa vitae tortor condimentum."
+lrana,f,21,intermediate,Theory,outdoor,"Velit egestas dui id ornare arcu odio. Sed id semper risus in hendrerit gravida.
+cbianchi,f,23,beginner,Skwama,indoor_outdoor,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et \n dolore magna aliqua."
+brosa,null,18,advanced,Futura,indoor_outdoor,"Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Quis lectus nulla at volutpat diam ut \n venenatis tellus".
