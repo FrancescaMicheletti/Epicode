@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shoes_list>
+  <!--Ogni scarpa nella lista presenta l'attributo model e gli elementi
+  type = tipo di chiusura (velcro. stringhe o elastico)
+  price = prezzo in euro
+  weight = peso in grammi di una scarpa n.39)
+  sole = spessore della suola in mm con attributo stype relativo al tipo di suola
+  suggested_use = utilizzo consigliato dal produttore (indoor. outdoor. indoor_outdoor)-->
+  <shoe model="Tarantula">
+    <type>velcro</type>
+    <price>89.00</price>
+    <weight>240</weight>
+    <sole stype="FriXion">4</sole>
+    <suggested_use>indoor</suggested_use>
+  </shoe>
+  <shoe model="Tarantulace">
+    <type>shoelace</type>
+    <price>89.00</price>
+    <weight>245</weight>
+    <sole stype="FriXion">4</sole>
+    <suggested_use>indoor</suggested_use>
+  </shoe>
+  <shoe model="Finale">
+    <type>shoelace</type>
+    <price>125.00</price>
+    <weight>240</weight>
+    <sole stype="Vibram XS-Edge">3</sole>
+    <suggested_use>indoor_outdoor</suggested_use>
+  </shoe>
+  <shoe model="Genius">
+    <type>shoelace</type>
+    <price>165.00</price>
+    <weight>225</weight>
+    <sole stype="Vibram XS-Grip2">4</sole>
+    <suggested_use>indoor_outdoor</suggested_use>
+  </shoe>
+  <shoe model="Futura">
+    <type>velcro</type>
+    <price>159.00</price>
+    <weight>215</weight>
+    <sole stype="Vibram XS-Grip2">3</sole>
+    <suggested_use>indoor_outdoor</suggested_use>
+  </shoe>
+  <shoe model="Speedster">
+    <type>elastic</type>
+    <price>125.00</price>
+    <weight>190</weight>
+    <sole stype="Vibram XS-Grip2">3</sole>
+    <suggested_use>outdoor</suggested_use>
+  </shoe>
+  <shoe model="Testarossa">
+    <type>shoelace</type>
+    <price>159.00</price>
+    <weight>235</weight>
+    <sole stype="P3 System">4</sole>
+    <suggested_use>outdoor</suggested_use>
+  </shoe>
+  <shoe model="Theory">
+    <type>elastic</type>
+    <price>149.00</price>
+    <weight>200</weight>
+    <sole stype="Dtech">3.5</sole>
+    <suggested_use>"outdoor"</suggested_use>
+  </shoe>
+  <shoe model="Skwama">
+    <type>velcro</type>
+    <price>149.00</price>
+    <weight>240</weight>
+    <sole stype="S-heel">3.5</sole>
+    <suggested_use>indoor_outdoor</suggested_use>
+  </shoe>
+  <shoe model="Python">
+    <type>velcro</type>
+    <price>125.00</price>
+    <weight>220</weight>
+    <sole stype="Vibram XS-Grip2">3.5</sole>
+    <suggested_use>"indoor"</suggested_use>
+  </shoe>
+  <shoe model="Kataki">
+    <type>shoelace</type>
+    <price>155.00</price>
+    <weight>255</weight>
+    <sole stype="Vibram XS-Grip2">3</sole>
+    <suggested_use>outdoor</suggested_use>
+  </shoe>
+</shoes_list>
