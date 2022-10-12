@@ -1,0 +1,29 @@
+def query_insert(table, attributes, values):
+    if len(attributes) == len(values):
+        for i in range(len(attributes)):
+        stmt = 'insert into %s({attributes[i]}) values(%s);' % (table, attributes, values)
+    else:
+        print('Il numero degli attributi deve essere uguale al numero dei valori')
+    return stmt
+
+
+
+        c = conn.cursor()
+        q = query_select('*', 'discografia.disco')
+        execute_query(c, q)
+        print_result(c)
+        print('------------------')
+		##INSERIMENTO##
+        i = query_insert(tabella, attributi, valori)
+        execute_query(c, i)
+        conn.commit()
+        print_result(c)
+
+        ##CANCELLAZIONE##
+        d = query_delete(tabella, condizione)
+        execute_query(c, d)
+        conn.commit()
+
+        q = query_select('*', 'discografia.disco')
+        execute_query(c, q)
+        print_result(c)
